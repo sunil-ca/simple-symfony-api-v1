@@ -2,7 +2,7 @@
 
 The API does following:
 
-*list all products
+ Markup : *list all products
 *list all categories
 *retrieve a single product
 *create a product
